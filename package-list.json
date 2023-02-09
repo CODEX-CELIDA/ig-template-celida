@@ -1,0 +1,14 @@
+{
+  "package-id" : "de.netzwerk-universitaetsmedizin.codexplus.celida.template",
+  "title" : "CODEX+ CELIDA template extension for FHIR IG",
+  "canonical" : "https://www.netzwerk-universitaetsmedizin.de/fhir/celida/ig-template-celida",
+  "list" : [
+    {
+      "version" : "current",
+      "desc" : "Continuous Integration Build (latest in version control)",
+      "path" : "https://build.fhir.org/ig/CODEX-CELIDA/ig-template-celida",
+      "status" : "ci-build",
+      "current" : true
+    }
+]
+}
